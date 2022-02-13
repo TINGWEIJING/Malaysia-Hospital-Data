@@ -1,0 +1,91 @@
+_id,LONGITUD,LATITUD,KOD FASILITI,FASILITI KESIHATAN INDUK,NAMA KKIA,JARAK DARI FASILITI KESIHATAN INDUK KM,ALAMAT,POSKOD,LOKASI,BANDAR,DAERAH,NEGERI,PURATA BEBAN KERJA SEHARI,NO TELEFON,NO FAX,HOSPITAL TERDEKAT,JARAK DENGAN HOSPITAL KM
+1,100.91618,5.68086,21-02010320,NA,KKIA Baling,0.0,"Lot 851, Lorong Harun Abdullah, Off Jalan Weng",9100,Luar Bandar,Baling,Baling,KEDAH,225,04-4701351,04-4701131,Hospital Baling,4.0
+2,100.48786,5.64241,21-02040323,NA,KKIA Sungai Petani,0.0,"81, Jalan Padang",8000,Bandar,Sungai Petani,Kuala Muda,KEDAH,1314,04-4216357,04-4210076,Hospital Sultan Abd Halim Shah,8.0
+3,100.42033,6.26274,21-02050324,NA,KKIA Jitra,0.0,Klinik Kesihatan Ibu Dan Anak Jitra,6000,Bandar,Jitra,Kubang Pasu,KEDAH,826,04-9171355,04-9178644,Hospital Jitra,4.0
+4,100.61333,6.25558,21-02080321,NA,KKIA Kuala Nerang,0.0,Klinik Kesihatan Ibu Dan Anak Kuala Nerang,6300,Luar Bandar,Kuala Nerang,Padang Terap,KEDAH,479,04-7866355 / 04-7860510,04-7860510,Hospital K. Nerang,2.0
+5,100.74538,5.82364,21-02100322,NA,KKIA Sik,0.0,Jalan Tuanku Ibrahim,8200,Luar Bandar,Sik,Sik,KEDAH,217,04-4690617,04-4690602,Hospital Sik,3.0
+6,100.37149,5.78155,21-02110039,NA,KKIA Yan,0.0,"Klinik Kesihatan Ibu Dan Anak Yan, Yan Besar",6900,Bandar,Yan,Yan,KEDAH,122,04-4655355,04-4684251,Hospital Yan,4.5
+7,100.21778,5.3641,21-07010108,Pejabat Kesihatan Barat Daya,KKIA Air Putih,0.0,"Lot 312, Mk.E, Jkr 2761 (P) Air Putih ",11000,Luar Bandar,Balik Pulau,Barat Daya,PULAU PINANG,82,04-8660287,-,Hospital Balik Pulau,2.1
+8,100.49796,5.21802,21-07020111,PKDSPS,KKIA Sungai Bakap,7.2,Sungai Bakap,14200,Luar Bandar,Sungai Bakap,Seberang Perai Selatan,PULAU PINANG,152,04-5824205,-,Hospital Sg Bakap,0.4
+9,100.46461,5.35989,21-07030109,KK Berapit,KKIA Bukit Mertajam,3.6,"D 49, Jalan Kulim, 14000 Bukit Mertajam",14000,Bandar,Bukit Mertajam,Seberang Perai Tengah,PULAU PINANG,806,04-5382389,-,Hospital Bukit Mertajam,0.5
+10,100.289767,5.410481,21-07050110,KK Air Itam,KKIA Rifle Range,2.0,"Unit A-G-18, Flat Padang Tembak Blok A, Rumah Pangsa Rifle Range, Ayer Itam",11500,Bandar,Georgetown,Timur Laut,PULAU PINANG,41,04-8296355,-,Hospital Pulau Pinang ,5.0
+11,100.30372,5.36931,21-07050112,KK Sg Dua,KKIA Taman Tun Sardon,3.0,"Unit A-G-9 & A-G-10 Rumah Pangsa Taman Tun Sardon, Gelugor",11700,Bandar,Georgetown,Timur Laut,PULAU PINANG,58,04-6571592,-,Hospital Pulau Pinang ,7.5
+12,100.306179,5.461071,21-07050113,KK Tg Bungah,KKIA Tanjong Tokong,2.5,"Unit A-G-3 & A-G-4 Rumah Pangsa Tanjong Tokong Uda, Fasa 1 Bandar Tanjung Pinang",10470,Bandar,Georgetown,Timur Laut,PULAU PINANG,90,04-8993727,-,Hospital Pulau Pinang ,7.0
+13,101.01195,4.00117,21-08020361,NA,KKIA Telok Intan ,0.0,Jalan Maharajalela,36000,Bandar,Telok Intan,Hilir Perak,PERAK,112,05-6221011 / 2033 / 4828,05-6212401,Hospital Teluk Intan,5.0
+14,101.129717,5.433767,21-08030354,NA,KKIA Gerik,0.0,"Batu 1, Jalan Intan",33300,Bandar,Gerik,Hulu Perak,PERAK,156,05-7912871,05-7912876,Hospital Gerik,0.5
+15,100.48196,5.13002,21-08040357,NA,KKIA Parit Buntar,0.0,Jalan Sekolah,34200,Bandar,Parit Buntar,Kerian,PERAK,70,05-7162355,05-7165355,Hospital Parit Buntar,0.5
+16,101.035,4.478056,21-08050355,NA,KKIA Batu Gajah,0.0,"Jalan Changkat, Pekan Batu Gajah",31000,Bandar,Batu Gajah,Kinta,PERAK,221,05-3661627,05-3661492,Hospital Batu Gajah,0.4
+17,101.08529,4.60108,21-08050131,KK Greentown,KKIA Greentown,0.5,Jalan Dato Onn Jaafar,30300,Bandar,Ipoh,Kinta,PERAK,115,05-2539670,-,Hospital Raja Permaisuri Bainun Ipoh,1.0
+18,101.17419,4.64872,21-08050362,KK Tg Rambutan,KKIA Ulu Kinta,5.7,Pasukan Gerakan Am (Rumah Polis),31250,Bandar,Ulu Kinta,Kinta,PERAK,116,05-5332222,-,Hospital Raja Permaisuri Bainun Ipoh,10.0
+19,101.068702,4.536722,21-08050268,KK Pasir Pinji,KKIA Pengkalan Pegoh,5.5," Jalan Pasir Puteh, Kg Pengkalan Pegoh, Lahat",31500,Bandar,Ipoh,Kinta,PERAK,88,05-3226451,-,Hospital Raja Permaisuri Bainun Ipoh,12.1
+20,101.127584,4.529346,21-08050289,KK Gunung Rapat,KKIA Simpang Pulai,4.9,"Jalan Raja Nazrin, Kg. Kepayang",31300,Bandar,Ipoh,Kinta,PERAK,110,05-3575759,-,Hospital Raja Permaisuri Bainun Ipoh,11.3
+21,100.930617,4.773633,21-08060356,NA,KKIA Kuala Kangsar,0.0,D/A Hospital Kuala Kangsar,33000,Bandar,Kuala Kangsar,Kuala Kangsar,PERAK,197,05-7760658,-,Hospital K.Kangsar,0.1
+22,100.740384,4.84921,21-08070359,NA,KKIA Taiping,0.0,Jalan Panggung Wayang,34000,Bandar,Taiping,Larut Matang,PERAK,126,05-8083355,-,Hospital Taiping ,1.0
+23,100.607754,4.605121,21-08090418,KK Bota Kiri,KKIA Seri Iskandar,11.8,"No. 13A, (Tingkat Bawah), Persiaran Dataran 2, Taman Iskandar Perdana, Bandar Seri Iskandar",32610,Bandar,Seri Iskandar,Perak Tengah,PERAK,0,05-3711642,-,Hospital Changkat Melintang,15.3
+24,101.75329,3.11213,21-10020203,KK Ampang,KKIA Cheras Baru,4.0,"Jalan 49 Bukit E, Cheras Baru ",56100,Bandar,Cheras,Hulu Langat,SELANGOR,222,03-42975853,-,Ampang,8.0
+25,101.75059,3.14578,21-10020232,KK Ampang,KKIA Kampung Pandan,5.0,"Kkia Kampung Pandan, Kuala Lumpur",55100,Bandar,Kampung Pandan,Hulu Langat,SELANGOR,135,03-92847881,-,Ampang,6.0
+26,101.5781466,3.4159148,21-10030231,KK Serendah,KKIA Bukit Sentosa,16.0,"Jalan Seroja, 1A Bukit Sentosa",48000,Luar Bandar,Rawang,Hulu Selangor,SELANGOR,110,03-61040062 / 03-60213210,-,Hospital Selayang,29.0
+27,101.661058,3.567873,21-10030205,KKIA Kuala Kubu Baru,KKIA Kuala Kubu Baru,0.0,"Jalan Kolam Air, Hulu Selangor",44000,Luar Bandar,Kuala Kubu Baru,Hulu Selangor,SELANGOR,121,03-60641257,-,Hospital Kuala Kubu Bharu,1.0
+28,101.67699,3.12981,21-14010031,KK Tanglin,KKIA Jalan Bangsar,7.1,"Blok 2, Tingkat Bawah, Flat Sri Pahang, Bukit Bangsar",59000,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,106,03-22825564,-,Hospital Kuala Lumpur,11.6
+29,101.713298,3.217297,21-14010032,KK Setapak,KKIA Pasar Moden Gombak,12.9,"Bt. 5, Jln Gombak",53000,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,230,03-40218030,-,Hospital Kuala Lumpur,5.0
+30,101.71366,3.0896,21-14010033,KK Bandar Tun Razak,KKIA Bandar Tun Razak,1.0,"Blok 90-00-05, Flat Sri Kota, Bandar Tun Razak",56000,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,294,03-91717129,-,Hukm,2.0
+31,101.649,3.072354,21-14010035,KK Petaling Bahagia,KKIA Taman Sri Sentosa,3.1,"Blok 67-00-01 & 67-00-02, Taman Sri Sentosa",55800,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,88,03-77814120,-,Ppum,10.0
+32,101.669246,3.093767,21-14010036,KK Tanglin,KKIA Taman Pantai Indah,9.5,"No 7, Jln 2/ 112 F, Taman Pantai Indah, Jln Pantai Dalam, Bangsar",59000,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,163,03-22825107,-,Ppum,5.9
+33,101.740931,3.101951,21-14010037,KK Cheras Baru,KKIA Cheras Makmur,1.0,"No 16 & 18 Jln 2/96 A, Taman Cheras Makmur",56100,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,201,03-91304796,-,Hospital Ampang ,7.5
+34,101.692272,3.221741,21-14010038,KK Batu,KKIA Koperasi Polis Fasa 2,3.9,"Dewan Komuniti Fasa 2, Taman Koperasi, Batu Caves",68100,Bandar,Kuala Kumpur,Wp Kuala Lumpur,WP KUALA LUMPUR,107,03-61841767,-,Hospital Kuala Lumpur,7.5
+35,102.20754,2.38204,21-04010009,NA,KKIA Alor Gajah,0.0,Alor Gajah,78000,Luar Bandar,Alor Gajah,Alor Gajah,MELAKA,101,06-5566235,06-5566249,NA,0.0
+36,103.74238,1.47954,21-01020403,NA,KKIA Jalan Abd Samad,0.0,"Jalan Abdul Samad, Johor Bharu",81800,Bandar,Johor Bahru,Johor Bahru,JOHOR,87,07-2224711,-,Hospital Sultanah Aminah Johor Bharu,3.8
+37,103.31867,2.03372,21-01030390,NA,KKIA Kluang ,0.0,"Pt 3782, Jalan Sultanah",86000,Bandar,Kluang,Kluang,JOHOR,207,07-7721852,07-7735526,Hospital Eche Besar Hajjah Kalsom,8.0
+38,103.89944,1.73667,21-01040391,NA,KKIA Jalan Tun Habab,0.0,Jalan Tun Habab,81900,Bandar,Kota Tinggi,Kota Tinggi,JOHOR,418,07-8832181,-,Hospital Kota Tinggi,0.2
+39,103.32566,3.80835,21-06050333,Pkd Kuantan,KKIA Kuantan,8.0,"Jalan Gambut, Kuantan",25000,Bandar,Kuantan,Kuantan,PAHANG,128,09-5132055,-,"Hospital Tengku Ampuan Afzan , Kuantan",5.0
+40,101.96057,4.0134,21-06060332,Pkd Lipis,KKIA Kuala Lipis,0.0,Kuala Lipis,27200,Bandar,Kuala Lipis,Lipis,PAHANG,80,09-3101083,-,Hospital Lipis,2.0
+41,101.85493,3.79541,21-06090337,KKIA,KKIA Raub,0.0,Raub,27600,Bandar,Raub,Raub,PAHANG,70,09-3552355,-,Hospital Raub,2.3
+42,103.09028,3.05361,21-06100335,Pkd Rompin,KKIA Muadzam Shah,70.0,Muadzam Shah,26700,Bandar,Muadzam Shah,Rompin,PAHANG,63,09-4522780,09-4522780,Hospital Muadzam  Shah,0.2
+43,102.34206,3.48152,21-06110334,NA,KKIA Mentakab,0.0,Mentakab,28400,Bandar,Mentakab,Temerloh,PAHANG,80,09-2775182,09-2775185,Hoshas,19.0
+44,103.13521,5.32811,21-11050184,PKD K. Terengganu,KKIA Air Jernih,3.0,"Jalan Air Jernih, Kuala Terengganu",20300, Bandar,Kuala Terengganu,Kuala Terengganu,TERENGGANU,110,09-6203532 / 09-6203533,-,NA,0.0
+45,115.72967,5.35382,21-12010331,PKK Beaufort,KKIA Beaufort,1.0,"Pejabat Kesihatan Kawasan Beaufort, Peti Surat 101",89807,Bandar,Beaufort,Beaufort,SABAH,175,087-211182,-,Hospital Beaufort,0.5
+46,115.562181,5.09669,21-12010369,Pkd Sipitang,KKIA Sipitang,1.0,"D/A Pejabat Kesihatan Kawasan Beaufort, Peti Surat 101",89807,Bandar,Beufort,Beaufort,SABAH,119,087-730103,087-821320,Sipitang,0.1
+47,117.55778,5.89278,21-12020332,PKK Beluran,KKIA Beluran,5.0,"Klinik Kesihatan Ibu Dan Anak Beluran, Peti Surat 117",90107,Bandar,Beluran,Beluran,SABAH,110,089-511236 / 089-511122,-,Hospital Beluran,0.1
+48,116.16,5.34083,21-12030334,PKK Keningau,KKIA Keningau ,0.0,"D/A Pejabat Kesihatan Kawasan Keningau, Peti Surat 94",89007,Bandar,Keningau,Keningau,SABAH,195,087-331204,-,Hospital Keningau,5.0
+49,116.362842,5.669498,21-12030348,PKK Keningau,KKIA Tambunan,45.0,"D/A Pejabat Kesihatan Kawasan Keningau, Peti Surat 94",89007,Luar Bandar,Tambunan,Keningau,SABAH,121,087-774219,-,Hospital Tambunan,5.0
+50,115.94469,5.12519,21-12030350,PKK Keningau,KKIA Tenom,45.0,"D/A Pejabat Kesihatan Kawasan Keningau, Peti Surat 94",89007,Bandar,Tenom,Keningau,SABAH,63,087-735355,-,Hospital Hospital Tenom,1.0
+51,116.43156,6.34593,21-12050336,Pkd Kota Belud,KKIA Kota Belud,0.0,"D/A Pejabat Kesihatan Kawasan Tuaran, Peti Surat 620",89158,Bandar,Kota Belud,Kota Belud,SABAH,142,088-976611,088-975645,Hospital Kota Belud,1.0
+52,116.074043,5.958786,21-12060333,KK Luyang,"KKIA Jln. Kebajikan, Kota Kinabalu",3.0,"D/A Pejabat Kesihatan Kawasan Kota Kinabalu , Lot 21-24 Tkt 2, Blok C, Heritage Plaza, Off Jalan Lintas Luyang",88300,Bandar,Kota Kinabalu,Kota Kinabalu,SABAH,140,088-726185,088-211502,Qeh,0.5
+53,115.9325,5.73694,21-12060342,Pkd Papar,KKIA Papar,0.0,"D/A Pejabat Kesihatan Kawasan Kota Kinabalu, Lot 21-24, Tkt 2, Blok C Heritage Plaza",88300,Bandar,Papar,Kota Kinabalu,SABAH,90,088-913580,088-913216,Hospital Papar,2.0
+54,116.075489,5.97994,21-12060343,KK Luyang,KKIA Pekan,5.0,"D/A Pejabat Kesihatan Kawasan Kota Kinabalu, Lot 21-24, Tkt 2, Blok C Heritage Plaza, Off Jalan Lintas Luyang",88300,Bandar,Kota Kinabalu,Kota Kinabalu,SABAH,185,088-726185 / 088-726309,088-726329,Qeh,3.0
+55,117.85026,5.58543,21-12040337,PKK Kinabatangan,KKIA Kota Kinabatangan,0.0,"D/A Pejabat Kesihatan Kawasan Kinabatangan, Wdt 40",90200,Bandar,Kota Kinabatangan,Kinabatangan,SABAH,78,089-561975,-,H.Kinabatangan,0.1
+56,116.75928,6.49522,21-12070338,Pkd Kota Marudu,KKIA Kota Marudu,0.0,"Jalan Lotong, Peti Surat 421",89108,Bandar,Kudat,Kota Marudu,SABAH,139,088-661884,-,Hospital Kota Marudu,5.0
+57,115.59894,5.57099,21-12080069,Pkd Kuala Penyu,KKIA Kuala Penyu,0.0,D/A Pejabat Kesihatan Daerah Kuala Penyu,89747,Bandar,Kuala Penyu,Kuala Penyu,SABAH,98,087-884333,-,Hospital Kuala Penyu,3.0
+58,116.84806,6.90361,21-12090339,PKK Kudat,KKIA Kudat,3.0,"D/A Pejabat Kesihatan Kawasan Kudat, Beg Berkunci 6",89059,Bandar,Kudat,Kudat,SABAH,185,088-611581 / 088-622118,088-611523,Hospital Kudat,3.0
+59,118.25109,4.68675,21-12100073,Pkd Kunak,KKIA Kunak 1,0.0,"D/A Pejabat Kesihatan Daerah Kunak, Peti Surat 990, Kunak",91008,Bandar,Kunak,Kunak,SABAH,78,089-851745,-,Hospital Daerah Kunak,6.0
+60,118.25036,4.685,21-12100340,KKIA 1,KKIA Kunak 2,6.0,"D/A Pejabat Kesihatan Daerah Kunak, Peti Surat 6",91008,Bandar,Kunak,Kunak,SABAH,87,089-851745,-,Hospital Daerah Kunak,0.0
+61,115.69556,5.38611,21-12150344,Pkd Pitas,KKIA Pitas,0.0,"D/A Pejabat Kesihatan Kawasan Kudat, Beg Berkunci No 6",89059,Bandar,Pitas,Pitas,SABAH,154,088-671376,088-671202,Hospital Pitas,0.3
+62,116.670411,5.954421,21-12160345,NA,KKIA Ranau,0.0,"D/A Pejabat Kesihatan Kawasan Tuaran, Wdt 10",89200,Bandar,Ranau,Ranau,SABAH,183,088-876088,088-876479,Hospital Ranau,0.5
+63,118.102276,5.861485,21-12170346,KK  Sandakan,KKIA Sandakan,2.5,"D/A Pejabat Kesihatan Kawasan Sandakan, Tkt 6, Rumah Persekutuan",90009,Bandar,Sandakan,Sandakan,SABAH,145,089-561451,-,Hospital Duchess Of Kent Sandakan,2.0
+64,117.952324,4.254927,21-12210335,PKK Tawau,KKIA Kinabutan,6.0,"Pejabat Kesihatan Kawasan Tawau, Tingkat 7, Bangunan Persekutuan, Peti Surat 990",91008,Bandar,Tawau,Tawau,SABAH,229,-,-,Hospital Tawau,10.0
+65,117.885736,4.245715,21-12210349,PKK Tawau,KKIA Tawau 1,0.8,"D/A Pejabat Kesihatan Kawasan Tawau,Peti Surat 990",91008,Bandar,Tawau,Tawau,SABAH,418,089-772526,089-760835,Hospital Tawau,2.0
+66,116.230115,6.174257,21-12240351,PKK Tuaran,KKIA Tuaran,5.0,D/A Pejabat Kesihatan Kawasan Tuaran Wdt 10,89200,Bandar,Tuaran,Tuaran,SABAH,427,088-788655,-,Hospital Tuaran,7.0
+67,110.142848,1.428673,21-13020263,NA,KKIA Bau,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Kuching, Jalan Tun Ahmad Zaidi Adruce",94000,Luar Bandar,Bau,Bau,SARAWAK,71,082-763711,082-763716,NA,0.0
+68,111.53872,1.40297,21-13040264,NA,KKIA Betong,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Betong",95700,Luar Bandar,Betong,Betong,SARAWAK,78,083-472821,083-472664,NA,0.0
+69,113.081621,3.234082,21-13050271,NA,"KKIA Kidurong, Bintulu",0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Bintulu, Lebuh Raya Abang Galau",97000,Bandar,Bintulu,Bintulu,SARAWAK,73,086-251599 / 019-8179076,-,NA,0.0
+70,112.1538839,2.4364356,21-13060363,NA,KKIA Dalat,0.0,"Hospital Dalat, Fasa 1",96300,Luar Bandar,Mukah,Dalat,SARAWAK,29,084-864269 (ext.210),084-863058,NA,0.0
+71,112.151041,2.100943,21-13090270,NA,KKIA Kanowit,0.0,"D/A Peg. Kesihatan Daerah Kanowit, Daerah Kanowit",96700,Luar Bandar,Kanowit,Sibu,SARAWAK,37,084-752333,084-753860,NA,0.0
+72,110.327157,1.514256,21-13110364,NA,KKIA Batu Kawa,0.0,Jalan Ensing,93250,Bandar,Kuching,Kuching,SARAWAK,45,082-685830,082-685829,NA,0.0
+73,110.376179,1.558059,21-13110243,NA,KKIA Bintawa,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Kuching, Jalan Tuan Ahmad Zaidi Adruce",93050,Bandar,Kuching,Kuching,SARAWAK,72,082-444840,-,NA,0.0
+74,110.311554,1.562204,21-13110265,NA,KKIA Gita,0.0,"Jalan Semarak, Kg. Pinang Jawa, Batu 2 1/2",93050,Bandar,Kuching,Kuching,SARAWAK,119,082-240991,082-240991,NA,0.0
+75,110.36262,1.544988,21-13110281,NA,KKIA Jalan Sekama,0.0,Jalan Sekama,93300,Bandar,Sekama,Kuching,SARAWAK,113,082-337093,-,NA,0.0
+76,110.314552,1.560588,21-13110268,NA,KKIA Jawa,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Kuching, Jalan Tun Ahmad Zaidi Adruce",93400,Bandar,Kuching,Kuching,SARAWAK,91,082-240694,082-240675,NA,0.0
+77,110.32898,1.422229,21-13110272,NA,KKIA Kota Padawan ,0.0,"Batu 10, Jalan Puncak Borneo",93250,Bandar,Kuching,Kuching,SARAWAK,87,082-617687,-,NA,0.0
+78,110.322481,1.389034,21-13110278,NA,KKIA RCBM,0.0,"Km13, Jalan Puncak Borneo",93250,Bandar,Kuching,Kuching,SARAWAK,50,082-614494,-,NA,0.0
+79,110.367038,1.544781,21-13130274,NA,KKIA Limbang,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Limbang, Jalan Pandaruan",98700,Bandar,Limbang,Limbang,SARAWAK,55,085-211046 (ext.136),085-213294,NA,0.0
+80,110.341873,1.550192,21-13150275,NA,KKIA Lundu,0.0,"D/A Peg. Kesihatan Daerah, Daerah Lundu, Jalan Lundu / Sekambal",94500,Luar Bandar,Lundu,Lundu,SARAWAK,82,082-735042,082-734652,NA,0.0
+81,110.348724,1.55393,21-13170266,NA,KKIA Marudi,0.0,"Jalan Hospital Marudi,Baram",98050,Luar Bandar,Marudi,Marudi,SARAWAK,147,085-755511,-,NA,0.0
+82,113.981829,4.358393,21-13190276,NA,KKIA Miri,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Miri",98000,Bandar,Miri,Miri,SARAWAK,172,085-436042,085-422234,NA,0.0
+83,113.986604,4.351594,21-13190273,NA,KKIA Lambir,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Miri",98000,Bandar,Miri,Miri,SARAWAK,303,085-611578,-,NA,0.0
+84,110.331523,1.575913,21-13190394,NA,KKIA Taman Tunku,0.0,"Lot 927(2351), Neighbourhood Shopping Centre, Taman Tunku",98000,Bandar,Kuching,Miri,SARAWAK,83,085-612804,-,NA,0.0
+85,112.077617,2.902153,21-13200277,NA,KKIA Mukah,0.0,"D/A Peg. Kesihatan Bahagian, Bahagian Mukah",96400,Bandar,Mukah,Mukah,SARAWAK,79,084-873301,084-872459,NA,0.0
+86,110.492651,1.457768,21-13220267,NA,KKIA Sebisak,0.0,"Tingkat 1, Sublot 396-397, Lot 2071 Dan 539, Jalan Muara Tuang, Taman Suria 1",94300,Bandar,Kota Samarahan,Samarahan,SARAWAK,71,082-379702,-,NA,0.0
+87,111.341157,1.745912,21-13230279,NA,KKIA Saratok,0.0,"D/A Peg. Kesihatan Daerah Saratok, Daerah Saratok",95400,Luar Bandar,Saratok,Saratok,SARAWAK,76,083-436222,083-436917,NA,0.0
+88,110.566208,1.16785,21-13260282,NA,KKIA Serian,0.0,Jln Bunga Tanjong,94700,Luar Bandar,Serian,Serian,SARAWAK,82,082-876904,082-876904,NA,0.0
+89,110.785103,1.368505,21-13280262,NA,KKIA Simunjan Bandar,0.0,Jalan Sabun,94800,Luar Bandar,Simunjan,Simunjan,SARAWAK,21,082-803709,082-803823,NA,0.0
+90,101.067164,4.536957,21-13280283,NA,KKIA Simunjan Hospital,0.0,"Hospital Simunjan, Jalan Gunung Ngeli",94800,Luar Bandar,Simunjan,Simunjan,SARAWAK,61,082-895435,082-895018,NA,0.0

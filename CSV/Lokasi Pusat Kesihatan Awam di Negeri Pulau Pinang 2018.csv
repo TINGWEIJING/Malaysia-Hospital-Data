@@ -1,0 +1,506 @@
+"Name","Clinic","Hospital","ST","VAC","Latitude","Longitude","Address","Contact","State"
+"Klinik Kesihatan Prai",1,0,0,0,5.38377808305,100.388090053,"13700, Prai
+Pulau Pinang","04-3901477","Pulau Pinang"
+"Klinik Desa Permatang Tinggi",1,0,0,0,5.2982585172,100.479426185,"Permatang Tinggi
+14000, Bukit Mertajam
+Pulau Pinang","04-5884202","Pulau Pinang"
+"Klinik Desa Kubang Ulu",1,0,0,0,5.40853875421,100.482213638,"Kubang Ulu
+14000, Bukit Mertajam
+Pulau Pinang","04-5214980","Pulau Pinang"
+"Klinik Desa Permatang Pauh",1,0,0,0,5.41138666165,100.412542714,"Jalan Sama Gagah
+13500, Bukit Mertajam
+Pulau Pinang","04-3981380","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Bukit Mertajam",1,0,0,0,5.35941120083,100.464925324,"Jalan Kulim
+14000, Bukit Mertajam
+Pulau Pinang","04-5382389","Pulau Pinang"
+"Hospital Sungai Bakap",1,0,0,0,5.21974844397,100.497148792,"Sungai Jawi
+14200, Seberang Perai Selatan
+Pulau Pinang","04-5824333","Pulau Pinang"
+"Klinik Kesihatan Bukit Panchor",1,0,0,0,5.16655672168,100.492800717,"Mukim 7, Lot 1866
+Jalan Bukit Panchor
+14300, Nibong Tebal
+Pulau Pinang","04-5931679","Pulau Pinang"
+"Klinik Desa Alma",1,0,0,0,5.33208496174,100.473225836,"14000, Bukit Mertajam
+Pulau Pinang","04-5516064","Pulau Pinang"
+"Klinik Desa Juru",1,0,0,0,5.31570460719,100.443412289,"Kampung Juru
+14000, Bukit Mertajam
+Pulau Pinang","04-5086500","Pulau Pinang"
+"Klinik Desa Kampung Sekolah",1,0,0,0,5.3160153936,100.421524922,"Kampung Sekolah
+14000, Bukit Mertajam
+Pulau Pinang","04-5079458","Pulau Pinang"
+"Klinik Desa Bukit Tengah",1,0,0,0,5.36424762479,100.429166688,"Jalan Permatang Pauh
+14000, Bukit Mertajam
+Pulau Pinang","04-5372342","Pulau Pinang"
+"Klinik Desa Kampung Pertama",1,0,0,0,5.39209195236,100.418060784,"Kampung Pertama
+Jalan Permatang Pauh
+14000, Bukit Mertajam
+Pulau Pinang","04-3982281","Pulau Pinang"
+"Klinik Desa Machang Bubok",1,0,0,0,5.3399425842,100.512887509,"Machang Bubok
+14020, Bukit Mertajam
+Pulau Pinang","04-5515985","Pulau Pinang"
+"Klinik Desa Permatang Rawa",1,0,0,0,5.36897528622,100.453381608,"Permatang Rawa
+14000, Bukit Mertajam
+Pulau Pinang","04-5372541","Pulau Pinang"
+"Klinik Kesihatan Kubang Semang",1,0,0,0,5.39749418875,100.46386347,"Mukim 5, Lot 807
+14400, Bukit Mertajam
+Pulau Pinang","04-5390654","Pulau Pinang"
+"Klinik Desa Bukit Indera Muda",1,0,0,0,5.40757980077,100.452100086,"Bukit Indera Muda
+14400, Penanti
+Pulau Pinang","04-5383761","Pulau Pinang"
+"Klinik Desa Permatang Pasir",1,0,0,0,5.41527244975,100.437974476,"Permatang Pasir
+14000, Bukit Mertajam
+Pulau Pinang","04-8665539","Pulau Pinang"
+"Klinik Desa Padang Ibu",1,0,0,0,5.4250771833,100.467937594,"Padang Ibu
+14400, Penanti
+Pulau Pinang","04-5213160","Pulau Pinang"
+"Klinik Desa Sungai Lembu",1,0,0,0,5.39149360067,100.52257388,"Sungai Lembu
+14000, Bukit Mertajam
+Pulau Pinang","04-5213689","Pulau Pinang"
+"Hospital Seberang Jaya",1,0,0,0,5.39441480703,100.40820172,"Jalan Tun Hussein Onn
+13700, Perai
+Pulau Pinang","04-3827333","Pulau Pinang"
+"Klinik Kesihatan Seberang Jaya",1,0,0,0,5.39349168504,100.398428614,"Mukim 1, Lot 340
+Jalan Perpustakaan
+13700, Seberang Jaya
+Pulau Pinang","04-3900264","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Sungai Bakap",1,0,0,0,5.2175122599,100.497957021,"Jalan Besar
+14200, Sungai Bakap
+Pulau Pinang","04-5824205","Pulau Pinang"
+"Klinik Kesihatan Berapit",1,0,0,0,5.37643038775,100.47455979,"Mukm 17, Lot 89
+14000, Bukit Mertajam
+Pulau Pinang","04-5395400","Pulau Pinang"
+"Klinik Kesihatan Sungai Dua",1,0,0,0,5.44183912429,100.430743602,"Mukim 11, Lot 2349
+Jalan Pengkalan Machang
+13800, Butterworth
+Pulau Pinang","04-3564355","Pulau Pinang"
+"Klinik Kesihatan Mak Mandin",1,0,0,0,5.42114094454,100.389246537,"Seksyen 3, Lot 2882
+Jalan Mak Mandin
+13400, Butterworth
+Pulau Pinang","04-3244685","Pulau Pinang"
+"Klinik Kesihatan Sungai Acheh",1,0,0,0,5.15020154481,100.422700011,"Sungai Acheh, Lot 1376
+Jalan Sungai Acheh
+14300, Nibong Tebal
+Pulau Pinang","04-5981733","Pulau Pinang"
+"Klinik Kesihatan Nibong Tebal",1,0,0,0,5.16354552583,100.473745948,"Mukim 17, Lot 320
+Jalan Klinik
+14300, Nibong Tebal
+Pulau Pinang","04-5931355","Pulau Pinang"
+"Klinik Kesihatan Bukit Minyak",1,0,0,0,5.32668080611,100.448381103,"Mukim14, Lot 106
+14000, Bukit Mertajam
+Pulau Pinang","04-5071355","Pulau Pinang"
+"Klinik Kesihatan Tasek Gelugor",1,0,0,0,5.48419521092,100.491390439,"Mukim 12, Lot 1944
+13300, Tasek Gelugor
+Pulau Pinang","04-5731204","Pulau Pinang"
+"Klinik Desa Bagan Ajam",1,0,0,0,5.44744147092,100.382886111,"Jalan Bagan Ajam
+13000, Butterworth
+Pulau Pinang","04-3240060","Pulau Pinang"
+"Klinik Desa Sungai Puyu",1,0,0,0,5.4460482156,100.396143404,"Sungai Puyu
+Jalan Sungai Puyu
+13020, Butterworth
+Pulau Pinang","04-3240050","Pulau Pinang"
+"Klinik Desa Lahar Yooi",1,0,0,0,5.46640957884,100.461466136,"Lahar Yooi
+13300, Tasek Gelugor
+Pulau Pinang","04-5736798","Pulau Pinang"
+"Klinik Desa Pokok Sena",1,0,0,0,5.48447047015,100.450657899,"Pokok Sena
+13200, Kepala Batas
+Pulau Pinang","04-5759129","Pulau Pinang"
+"Klinik Desa Permatang Buloh",1,0,0,0,5.48038255413,100.426550749,"Permatang Buloh
+13200, Kepala Batas
+Pulau Pinang","04-5741014","Pulau Pinang"
+"Klinik Desa Pekan Darat",1,0,0,0,5.47869882527,100.401702181,"Pekan Darat
+13300, Butterworth
+Pulau Pinang","04-3515759","Pulau Pinang"
+"Klinik Desa Permatang Sintok",1,0,0,0,5.51135973266,100.404012853,"Permatang Sintok
+13100, Kepala Batas
+Pulau Pinang","04-5759136","Pulau Pinang"
+"Klinik Desa Lahar Kepar",1,0,0,0,5.53814049079,100.416661233,"Lahar Kepar
+13200, Kepala Batas
+Pulau Pinang","04-5759112","Pulau Pinang"
+"Klinik Desa Bumbung Lima",1,0,0,0,5.55362716369,100.435976816,"Bumbung Lima
+13200, Kepala Batas
+Pulau Pinang","04-5759110","Pulau Pinang"
+"Klinik Desa Tok Bedu",1,0,0,0,5.50610447453,100.482309913,"Tok Bedu
+13300, Tasek Gelugor
+Pulau Pinang","04-5733720","Pulau Pinang"
+"Klinik Desa Kampung Selamat",1,0,0,0,5.50444679358,100.522253525,"Kampung Selamat
+13300, Tasek Gelugor
+Pulau Pinang","04-5736800","Pulau Pinang"
+"Klinik Desa Pinang Tunggal",1,0,0,0,5.55182395786,100.503950214,"13200, Kepala Batas
+Pulau Pinang","04-5736797","Pulau Pinang"
+"Klinik Desa Padang Menora",1,0,0,0,5.45576046462,100.474693248,"Padang Menora
+13310, Tasek Gelugor
+Pulau Pinang","04-5736796","Pulau Pinang"
+"Klinik Desa Permatang Janggus",1,0,0,0,5.55556700638,100.38960119,"Permatang Janggus
+13100, Penaga
+Pulau Pinang","04-5763360","Pulau Pinang"
+"Klinik Desa Changkat",1,0,0,0,5.19870337229,100.470109242,"Changkat
+14300, Nibong Tebal
+Pulau Pinang","04-5938949","Pulau Pinang"
+"Klinik Desa Permatang Tok Mahat",1,0,0,0,5.13123577962,100.476371648,"Permatang Tok Mahat
+14300, Nibong Tebal
+Pulau Pinang","05-7171941","Pulau Pinang"
+"Klinik Desa Sungai Bakau",1,0,0,0,5.12543986117,100.41943409,"Sungai Bakau
+14300, Nibong Tebal
+Pulau Pinang","04-5982978","Pulau Pinang"
+"Klinik Desa Tanjung Berembang",1,0,0,0,5.15020325078,100.46165675,"Tanjung Berembang
+14300, Nibong Tebal
+Pulau Pinang","04-5939211","Pulau Pinang"
+"Klinik Desa Batu Kawan",1,0,0,0,5.26594545176,100.420727397,"Batu Kawan
+14100, Simpang Ampat
+Pulau Pinang","04-5885293","Pulau Pinang"
+"Klinik Desa Tasek",1,0,0,0,5.28494039565,100.515750918,"Tasek
+14100, Simpang Ampat
+Pulau Pinang","04-5884348","Pulau Pinang"
+"Klinik Desa Bukit Tambun",1,0,0,0,5.27424759725,100.44883913,"14100, Simpang Ampat
+Pulau Pinang","04-5884350","Pulau Pinang"
+"Klinik Desa Pulau Aman",1,0,0,0,5.26664590432,100.391864848,"Pulau Aman
+14100, Simpang Ampat
+Pulau Pinang","04-5822092","Pulau Pinang"
+"Klinik Desa Wellesley",1,0,0,0,5.21118661654,100.514730477,"Wellesley
+14200, Sungai Bakap
+Pulau Pinang","04-5829844","Pulau Pinang"
+"Klinik Desa Sungai Duri",1,0,0,0,5.20880068422,100.530535584,"Sungai Duri
+14200, Sungai Bakap
+Pulau Pinang","04-5829233","Pulau Pinang"
+"Klinik Desa Valdor",1,0,0,0,5.24031761617,100.491820377,"Valdor
+14200, Sungai Bakap
+Pulau Pinang","04-5826535","Pulau Pinang"
+"Klinik Kesihatan Jalan Macalister",1,0,0,0,5.41489517941,100.325970566,"Lot 1762
+Jalan Macalister
+10400, George Town
+Pulau Pinang","04-2289610","Pulau Pinang"
+"Hospital Pulau Pinang",1,0,0,0,5.41641267087,100.310687418,"Jalan Residensi
+10990, George Town
+Pulau Pinang","04-2225333","Pulau Pinang"
+"Hospital Bersalin Pulau Pinang",1,0,0,0,5.42020761511,100.309571002,"Jalan Residensi
+10990, George Town
+Pulau Pinang","04-2225369","Pulau Pinang"
+"Klinik Kesihatan Bukit Bendera",1,0,0,0,5.42447946351,100.269076026,"11500, Bukit Bendera
+Pulau Pinang","04-8299406","Pulau Pinang"
+"Hospital Balik Pulau",1,0,0,0,5.35054614473,100.233466384,"Jalan Hospital
+11000, Balik Pulau
+Pulau Pinang","04-8669333","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Air Putih",1,0,0,0,5.36366950667,100.217371199,"Mukim E, Lot 312, Jkr 2761 (P)
+11000, Balik Pulau
+Pulau Pinang","04-8660287","Pulau Pinang"
+"Klinik Kesihatan Teluk Bahang",1,0,0,0,5.45567324379,100.214995691,"Mukim 2, Lot 669
+11050, Teluk Bahang
+Pulau Pinang","04-8851951","Pulau Pinang"
+"Klinik Desa Pantai Acheh",1,0,0,0,5.41521722374,100.196350769,"Pantai Acheh
+11010, Balik Pulau
+Pulau Pinang","TIADA","Pulau Pinang"
+"Klinik Desa Sungai Pinang",1,0,0,0,5.39400089556,100.210751752,"Sungai Pinang
+11010, Balik Pulau
+Pulau Pinang","04-8661726","Pulau Pinang"
+"Hospital Bukit Mertajam",1,0,0,0,5.3598692865,100.464633247,"Jalan Kulim
+14000, Bukit Mertajam
+Pulau Pinang","04-5497333","Pulau Pinang"
+"Klinik Pergigian Kanak-Kanak",1,0,0,0,5.4193643733,100.308085424,"3
+Jalan Sepoy Lines
+10450, George Town
+Pulau Pinang","04-2299233","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Padang Tembak / Rifle Range",1,0,0,0,5.41138933635,100.288759506,"Blok A, Rumah Pangsa Padang Tembak
+Jalan Padang Tembak
+11400, Ayer Itam
+Pulau Pinang","04-8296355","Pulau Pinang"
+"Klinik Kesihatan Jalan Perak",1,0,0,0,5.40274838315,100.314573084,"Seksyen 2, Lot 808
+Jalan Perak
+10400, George Town
+Pulau Pinang","04-2812033","Pulau Pinang"
+"Klinik Kesihatan Bukit Jambul",1,0,0,0,5.33640238213,100.289256347,"Blok B, Taman Bukit Jambul, Poliklinik Komuniti Bukit Jambul
+Jalan Tun Dr Awang
+11900, Bayan Lepas
+Pulau Pinang","04-6448521","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Taman Tun Sardon",1,0,0,0,5.36854077965,100.305771892,"Blok A-G-9, Tingkat Bawah, Taman Tun Sardon
+11700, Glugor
+Pulau Pinang","04-6571592","Pulau Pinang"
+"Klinik Kesihatan Ibu Dan Anak Tanjong Tokong",1,0,0,0,5.46247371783,100.306174392,"A-G-3 & A-G-4, Rumah Pangsa Tanjong Tokong
+Jalan Tanjong Tokong
+10470, Tanjong Tokong
+Pulau Pinang","04-8993727","Pulau Pinang"
+"Hospital Kepala Batas",1,0,0,0,5.51171783465,100.437659894,"Jalan Bertam
+13200, Kepala Batas
+Pulau Pinang","04-5793333","Pulau Pinang"
+"Klinik Desa Permatang Bendahari",1,0,0,0,5.57911623733,100.374445219,"Permatang Bendahari
+13110, Penaga
+Pulau Pinang","04-5793244","Pulau Pinang"
+"Klinik Desa Kuala Muda",1,0,0,0,5.57214245379,100.341104322,"Kuala Muda
+13110, Penaga
+Pulau Pinang","04-5793405","Pulau Pinang"
+"Klinik Desa Paya Keladi",1,0,0,0,5.53846341878,100.442835281,"Paya Keladi
+13200, Kepala Batas
+Pulau Pinang","04-5754728","Pulau Pinang"
+"Klinik Kesihatan Kepala Batas",1,0,0,0,5.51651178469,100.433622441,"Mukim 6, Lot 1466
+13200, Kepala Batas
+Pulau Pinang","04-7144820","Pulau Pinang"
+"Klinik Kesihatan Penaga",1,0,0,0,5.53323721094,100.381112655,"Mukm 5, Lot 3001
+Jalan Penaga
+13110, Kepala Batas
+Pulau Pinang","04-5791718","Pulau Pinang"
+"Klinik Desa Pasir Gebu",1,0,0,0,5.55572437084,100.372446653,"Pasir Gebu
+13110, Penaga
+Pulau Pinang","04-5793246","Pulau Pinang"
+"Klinik Desa Teluk Ayer Tawar",1,0,0,0,5.48788553267,100.384129415,"Teluk Air Tawar
+Jalan Teluk Air Tawar
+13050, Butterworth
+Pulau Pinang","04-3515822","Pulau Pinang"
+"Klinik Desa Pajak Song",1,0,0,0,5.49999417587,100.426438336,"Pajak Song
+13200, Kepala Batas
+Pulau Pinang","04-5759171","Pulau Pinang"
+"Klinik Kesihatan Butterworth",1,0,0,0,5.40675597347,100.36848104,"Seksyen 4, Lot 1699
+Jalan Pantai
+12000, Butterworth
+Pulau Pinang","04-3233333","Pulau Pinang"
+"Klinik Desa Bagan Dalam",1,0,0,0,5.39523699469,100.373524631,"Jalan Bagan Dalam
+12100, Butterworth
+Pulau Pinang","04-3284464","Pulau Pinang"
+"Klinik Desa Permatang Pasir",1,0,0,0,5.37336832144,100.211525272,"Permatang Pasir
+11000, Balik Pulau
+Pulau Pinang","04-8665539","Pulau Pinang"
+"Klinik Desa Sungai Burong",1,0,0,0,5.33742634062,100.207350577,"Sungai Burong
+11000, Balik Pulau
+Pulau Pinang","04-8662060","Pulau Pinang"
+"Klinik Desa Pondok Upeh",1,0,0,0,5.33230995824,100.218238186,"Pondok Upeh
+11000, Balik Pulau
+Pulau Pinang","04-8661723","Pulau Pinang"
+"Klinik Desa Kampung Perlis",1,0,0,0,5.31079725948,100.203665491,"Kampung Perlis
+11020, Balik Pulau
+Pulau Pinang","04-8661749","Pulau Pinang"
+"Klinik Desa Gertak Sanggul",1,0,0,0,5.28210616301,100.19788658,"Gertak Sanggul
+11920, Bayan Lepas
+Pulau Pinang","04-6493920","Pulau Pinang"
+"Klinik Desa Teluk Kumbar",1,0,0,0,5.28738163247,100.229938203,"11920, Bayan Lepas
+Pulau Pinang","04-6495606","Pulau Pinang"
+"Klinik Desa Permatang Damar Laut",1,0,0,0,5.27372863986,100.269449621,"Permatang Damar Laut
+11900, Bayan Lepas
+Pulau Pinang","04-6265102","Pulau Pinang"
+"Klinik Kesihatan Bayan Lepas",1,0,0,0,5.29969145241,100.261937142,"Mukim 12, Lot 1157
+Jalan Dato Ismail Hashim
+11900, Bayan Lepas
+Pulau Pinang","04-6435434","Pulau Pinang"
+"Klinik Desa Sungai Ara",1,0,0,0,5.31823924037,100.274228138,"11900, Bayan Lepas
+Pulau Pinang","04-6452488","Pulau Pinang"
+"Klinik Desa Relau",1,0,0,0,5.33097018533,100.276853213,"11900, Bayan Lepas
+Pulau Pinang","04-6449230","Pulau Pinang"
+"Klinik Desa Sungai Batu",1,0,0,0,5.28709576014,100.241825659,"Sungai Batu
+11920, Bayan Lepas
+Pulau Pinang","04-6495673","Pulau Pinang"
+"Klinik Desa Batu Ferringgi",1,0,0,0,5.47323560198,100.247957552,"1918, '
+Jalan Batu Ferringgi
+12100, Pulau Pinang
+Pulau Pinang","04-8813814","Pulau Pinang"
+"Klinik Kesihatan Tanjong Bungah",1,0,0,0,5.46199688575,100.279566511,"11200, Tanjong Bungah
+Pulau Pinang","04-8990953","Pulau Pinang"
+"Klinik Kesihatan Air Itam",1,0,0,0,5.40569756705,100.282298303,"Seksyen 3, Lot 322
+Jalan Bukit Bendera
+11500, Ayer Itam
+Pulau Pinang","04-8283355","Pulau Pinang"
+"Klinik Desa Paya Terubong",1,0,0,0,5.39775868957,100.276959928,"Jalan Paya Terubong
+11500, Ayer Itam
+Pulau Pinang","04-8275919","Pulau Pinang"
+"Klinik Desa Thean Teik",1,0,0,0,5.39277310025,100.281182567,"Jalan Thean Teik
+11500, Ayer Itam
+Pulau Pinang","04-8276023","Pulau Pinang"
+"Klinik Kesihatan Sungai Dua",1,0,0,0,5.34407264699,100.297522231,"Mukim 13, Lot 2554
+11700, Sungai Dua
+Pulau Pinang","04-6422201","Pulau Pinang"
+"Klinik Desa Sungai Gelugor",1,0,0,0,5.37363757313,100.313953091,"Jkr 436
+Jalan Calthrop
+11700, Glugor
+Pulau Pinang","04-6580861","Pulau Pinang"
+"Klinik Kesihatan Lebuh Muntri",1,0,0,0,5.4201072601,100.33601069,"Lebuh Muntri
+10200, George Town
+Pulau Pinang","04-2620024","Pulau Pinang"
+"Klinik Kesihatan Bayan Baru",1,0,0,0,5.31968071289,100.279761773,"Jalan Tengah
+11950, Bayan Lepas
+Pulau Pinang","04-6425102","Pulau Pinang"
+"Klinik 1Malaysia Alma Jaya",1,0,0,0,5.32573613561,100.478610224,"No. 38 Ting. Bwh, Taman Alma Jaya
+Lorong Alma Jaya 11
+14100, Bukit Mertajam
+Pulau Pinang","04-5521033","Pulau Pinang"
+"Klinik 1Malaysia Batu Kawan",1,0,0,0,5.27109776991,100.431223894,"No. 19, Taman Cempaka
+Lorong Cempaka 1
+14100, Simpang Ampat
+Pulau Pinang","04-5880071","Pulau Pinang"
+"Klinik Kesihatan Bandar Tasek Mutiara",1,0,0,0,5.28158316437,100.491948011,"Mukim 7, Lot 1866
+Jalan Tasek Mutiara
+14100, Simpang Ampat
+Pulau Pinang","04-5079855","Pulau Pinang"
+"Klinik 1Malaysia Jelutong",1,0,0,0,5.40103515719,100.322548893,"No. 116 Tingkat Bawah
+Jalan Jelutong
+10150, Jelutong
+Pulau Pinang","04-2834070","Pulau Pinang"
+"Klinik 1Malaysia Teluk Air Tawar",1,0,0,0,5.49009915955,100.383461547,"No. 6 Kedai 1 Tingkat, Teluk Air Tawar
+Lorong Teluk Air Tawar 14
+13050, Butterworth
+Pulau Pinang","04-3511080","Pulau Pinang"
+"Klinik 1Malaysia Sungai Ara",1,0,0,0,5.31917998186,100.269003585,"2A-1, Taman Desa Ria
+Tingkat Kenari 5
+11900, Bayan Lepas
+Pulau Pinang","04-6463531","Pulau Pinang"
+"Klinik Kesihatan Bandar Baru Ayer Itam",1,0,0,0,5.38972184943,100.285484885,"No. 8
+Jalan Angsana
+11500, Ayer Itam
+Pulau Pinang","04-8266267","Pulau Pinang"
+"Klinik 1Malaysia Teluk Kumbar",1,0,0,0,5.28581374373,100.241637782,"Sungai Batu
+Solok Sungai Batu 1
+11920, Bayan Lepas
+Pulau Pinang","04-6492351","Pulau Pinang"
+"Klinik 1Malaysia Bandar Putra Bertam",1,0,0,0,5.51966923547,100.481101205,"No. 47 G/F Dan 1/F
+Persiaran 4/7
+13200, Kepala Batas
+Pulau Pinang","04-5750289","Pulau Pinang"
+"Klinik 1Malaysia Bagan Ajam",1,0,0,0,5.44410247456,100.380757015,"Lot-C-G-14 & 15
+Jalan Pantai Bersih
+13000, Butterworth
+Pulau Pinang","04-3322053","Pulau Pinang"
+"Klinik 1Malaysia Perda",1,0,0,0,5.37088709363,100.429540699,"Pangsapuri Taman Permata, Rumah Kelab
+14000, Bandar Perda
+Pulau Pinang","04-5301091","Pulau Pinang"
+"Klinik 1Malaysia Nibong Tebal",1,0,0,0,5.17636522781,100.475188249,"38, Taman Nibong Tebal Jaya
+Jalan Sungai Daun
+14300, Nibong Tebal
+Pulau Pinang","04-5933102","Pulau Pinang"
+"Klinik 1Malaysia Batu Ferringgi",1,0,0,0,5.47156512349,100.245205302,"889
+Jalan Seri Bayu
+11650, Pulau Pinang
+Pulau Pinang","013-5206911","Pulau Pinang"
+"Klinik Pergigian Hospital Balik Pulau",1,0,0,0,5.35063288446,100.233508143,"Hospital Balik Pulau
+Jalan Hospital
+11000, Balik Pulau
+Pulau Pinang","04-8669333","Pulau Pinang"
+"Klinik Pergigian Bayan Baru",1,0,0,0,5.31969266413,100.279651373,"Tingkat 1, Klinik Kesihatan Bayan Baru
+Jalan Tengah
+11950, Bayan Lepas
+Pulau Pinang","04-6414151","Pulau Pinang"
+"Klinik Pergigian Bayan Lepas",1,0,0,0,5.29984099369,100.261960991,"Klinik Kesihatan Bayan Lepas
+Jalan Dato Ismail Hashim
+11900, Bayan Lepas
+Pulau Pinang","04-6438873","Pulau Pinang"
+"Klinik Pergigian Teluk Bahang",1,0,0,0,5.45566728703,100.215112085,"Klinik Kesihatan Teluk Bahang
+11050, Teluk Bahang
+Pulau Pinang","04-8851951","Pulau Pinang"
+"Klinik Pergigian Mak Mandin",1,0,0,0,5.4211439438,100.389127167,"Klinik Kesihatan Mak Mandin
+Jalan Mak Mandin
+13400, Butterworth
+Pulau Pinang","04-3326967","Pulau Pinang"
+"Klinik Pergigian Butterworth",1,0,0,0,5.40676195792,100.368415388,"Klinik Kesihatan Butterworth
+Jalan Pantai
+12000, Butterworth
+Pulau Pinang","04-3239831","Pulau Pinang"
+"Klinik Pergigian Tasek Gelugor",1,0,0,0,5.48415332101,100.491471012,"Klinik Kesihatan Tasek Gelugor
+13300, Tasek Gelugor
+Pulau Pinang","04-5737821","Pulau Pinang"
+"Klinik Pergigian Kepala Batas",1,0,0,0,5.51636344192,100.433636745,"Pusat Kesihatan Besar
+13200, Kepala Batas
+Pulau Pinang","04-5753460","Pulau Pinang"
+"Klinik Pergigian Sungai Dua",1,0,0,0,5.44171052418,100.430728662,"Klinik Kesihatan Sungai Dua
+Jalan Pengkalan Machang
+13800, Butterworth
+Pulau Pinang","04-3564355","Pulau Pinang"
+"Klinik Pergigian Penaga",1,0,0,0,5.53315945148,100.38111265,"Klinik Kesihatan Penaga
+Jalan Penaga
+13110, Kepala Batas
+Pulau Pinang","04-5751430","Pulau Pinang"
+"Klinik Pergigian Pakar Bedah Mulut",1,0,0,0,5.41637082511,100.311129086,"Hospital Pulau Pinang
+Jalan Residensi
+10450, George Town
+Pulau Pinang","04-2002212","Pulau Pinang"
+"Klinik Pergigian Pakar Pediatrik",1,0,0,0,5.4165622162,100.310824684,"Hospital Pulau Pinang
+Jalan Residensi
+10450, George Town
+Pulau Pinang","04-222 5211","Pulau Pinang"
+"Klinik Pergigian Air Itam",1,0,0,0,5.40565856553,100.282284938,"Klinik Kesihatan Air Itam
+Jalan Bukit Bendera
+11500, Ayer Itam
+Pulau Pinang","04-8288355","Pulau Pinang"
+"Klinik Pergigian Jalan Perak",1,0,0,0,5.40250434995,100.314829735,"Seksyen 2, Klinik Kesihatan Jalan Perak, Lot 808
+Jalan Perak
+10400, George Town
+Pulau Pinang","04-2813753","Pulau Pinang"
+"Klinik Pergigian Jalan Macalister",1,0,0,0,5.41506936405,100.326077516,"Klinik Kesihatan Jalan Macalister
+Jalan Macalister
+10400, George Town
+Pulau Pinang","04-2289479","Pulau Pinang"
+"Klinik Pergigian Bukit Jambul",1,0,0,0,5.33645214778,100.289254432,"Blok H-G-5, Taman Bukit Jambul, Klinik Kesihatan Bukit Jambul
+Jalan Tun Dr Awang
+11900, Bayan Lepas
+Pulau Pinang","04-6429572","Pulau Pinang"
+"Klinik Pergigian Tanjong Bungah",1,0,0,0,5.4620543094,100.279579876,"Klinik Kesihatan Tanjong Bungah
+11200, Tanjong Bungah
+Pulau Pinang","04-8990953","Pulau Pinang"
+"Klinik Pergigian Sungai Dua",1,0,0,0,5.34410901219,100.297487854,"Klinik Kesihatan Sungai Dua
+11700, Sungai Dua
+Pulau Pinang","04-6422201","Pulau Pinang"
+"Klinik Pergigian Sungai Bakap",1,0,0,0,5.21979625414,100.49732255,"Sungai Jawi, Hospital Sungai Bakap
+14200, Seberang Perai Selatan
+Pulau Pinang","04-5824333","Pulau Pinang"
+"Klinik Pergigian Sungai Acheh",1,0,0,0,5.15023600876,100.422616015,"Sungai Acheh, Klinik Kesihatan Sungai Acheh
+Jalan Sungai Acheh
+14300, Nibong Tebal
+Pulau Pinang","04-5982729","Pulau Pinang"
+"Klinik Pergigian Simpang Ampat",1,0,0,0,5.28157739857,100.492047304,"Klinik Kesihatan Bandar Tasek Mutiara
+Jalan Tasek Mutiara
+14100, Simpang Ampat
+Pulau Pinang","04-5887355","Pulau Pinang"
+"Klinik Pergigian Nibong Tebal",1,0,0,0,5.16360102555,100.47378796,"Klinik Kesihatan Nibong Tebal
+Jalan Klinik
+14300, Nibong Tebal
+Pulau Pinang","04-5931355","Pulau Pinang"
+"Klinik Pergigian Bukit Panchor",1,0,0,0,5.16665433073,100.492840832,"Klinik Kesihatan Bukit Panchor, C/O Pej. Pergigian Daerah
+Jalan Bukit Panchor
+14300, Nibong Tebal
+Pulau Pinang","04-5942937","Pulau Pinang"
+"Klinik Pergigian Prai",1,0,0,0,5.38371682588,100.388187448,"Klinik Kesihatan Prai
+13700, Prai
+Pulau Pinang","04-3901477","Pulau Pinang"
+"Klinik Pergigian Berapit",1,0,0,0,5.37643422373,100.474521595,"Klinik Kesihatan Berapit
+14000, Bukit Mertajam
+Pulau Pinang","04-5071355","Pulau Pinang"
+"Klinik Pergigian Kubang Semang",1,0,0,0,5.39749609451,100.463907397,"Klinik Kesihatan Kubang Semang
+14400, Bukit Mertajam
+Pulau Pinang","04-5371004","Pulau Pinang"
+"Klinik Pergigian Hospital Bukit Mertajam",1,0,0,0,5.35992289068,100.464583605,"Hospital Bukit Mertajam
+Jalan Kulim
+14000, Bukit Mertajam
+Pulau Pinang","04-5383355","Pulau Pinang"
+"Klinik Pergigian Bukit Minyak",1,0,0,0,5.32669419274,100.448453671,"Klinik Kesihatan Bukit Minyak
+14000, Bukit Mertajam
+Pulau Pinang","04-5071355","Pulau Pinang"
+"Klinik Pergigian Seberang Jaya",1,0,0,0,5.39356633358,100.39843435,"Poliklinik Komuniti Seberang Jaya
+Jalan Perpustakaan
+13700, Seberang Jaya
+Pulau Pinang","04-3907487","Pulau Pinang"
+"Klinik Pakar Bedah Mulut",1,0,0,0,5.39441479964,100.408272384,"Hospital Seberang Jaya
+Jalan Tun Hussein Onn
+13700, Perai
+Pulau Pinang","04-3862216","Pulau Pinang"
+"Klinik 1Malaysia Taman Seri Genting",1,0,0,0,5.33684933751,100.222606763,"No. 22, Taman Seri Genting
+11000, Balik Pulau
+Pulau Pinang","04-866 2531","Pulau Pinang"
+"Klinik 1Malaysia Bagan Dalam",1,0,0,0,5.39253080518,100.371497656,"A-G-03 & A-G-05, Rumah Pangsa Sri Bagan
+12100, Butterworth
+Pulau Pinang","04-323 3751","Pulau Pinang"
+"Klinik 1Malaysia Penang Times Square",1,0,0,0,5.41256530145,100.325079211,"Lot 77-3-16 &17 ,Tingkat 3,, Penang Times Square,
+Jalan Datuk Keramat
+10150, George Town
+Pulau Pinang","04-226 5486","Pulau Pinang"
+"Klinik 1Malaysia Simpang Ampat",1,0,0,0,5.28382745087,100.482902354,"No. 81, Bandar Tasek Mutiara
+Lorong 1/Ss1
+14120, Simpang Ampat
+Pulau Pinang","04-5024915","Pulau Pinang"
+"Klinik 1Malaysia Taman Kemaju",1,0,0,0,5.47859743601,100.503604954,"No. 81, Taman Bunga Kemaju
+13300, Tasek Gelugor
+Pulau Pinang","04- 5731222","Pulau Pinang"
+"Klinik 1Malaysia Taman Merbau Jaya",1,0,0,0,5.45135374101,100.432178409,"No. 8, Taman Merbau Jaya, Sungai Dua
+Lorong Merbau Jaya 1
+13800, Butterworth
+Pulau Pinang","04 3562087","Pulau Pinang"
+"Klinik 1Malaysia Taman Perwira",1,0,0,0,5.29953104631,100.47690185,"No. 49, Taman Perwira Indah
+Lorong Perwira Indah 1
+14100, Bukit Mertajam
+Pulau Pinang","04- 5021548","Pulau Pinang"
+"Klinik 1Malaysia Taman Seri Delima",1,0,0,0,5.31655989811,100.436925303,"No. G-25, Taman Seri Delima
+Jalan Delima 3
+14000, Bukit Mertajam
+Pulau Pinang","┬á04-5040467","Pulau Pinang"
